@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "_id": "1",
+            "name": "Bachelor of Architecture (BArch)",
+            "price": 400
+        },
+        {
+            "_id": "2",
+            "name": "Master of Business Administration (MBA)",
+            "price": 400
+        },
+        {
+            "_id": "3",
+            "name": "Master of Philosophy (MPhil)",
+            "price": 400
+        },
+        {
+            "_id": "4",
+            "name": "Bachelor of Design (BDes)",
+            "price": 400
+        },
+        {
+            "_id": "5",
+            "name": "Dual Degree (BS & MS)",
+            "price": 400
+        },
+        {
+            "_id": "6",
+            "name": "Dual Degree (MSc-PhD)",
+            "price": 400
+        },
+        {
+            "_id": "7",
+            "name": "Dual Degree (MSc-PhD",
+            "price": 400
+        },
+        {
+            "_id": "8",
+            "name": "Dual Degree (BTech-MTech)",
+            "price": 400
+        },
+        {
+            "_id": "9",
+            "name": "Master of Science (MSc)",
+            "price": 400
+        },
+        {
+            "_id": "10",
+            "name": "Bachelor of Science (BS)",
+            "price": 400
+        }
+    ]
+}
